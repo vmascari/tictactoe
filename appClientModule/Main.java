@@ -8,7 +8,10 @@ public class Main {
 	 * @see java.lang.Object#Object()
 	 */
 	public Main() {
+		
 		super();
+		
+		System.out.println("Hello, World");
 	}
 
 }
